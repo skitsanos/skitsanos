@@ -1,4 +1,6 @@
-Software Engineer with an accent on Node.js + React + Ant.Design + ArangoDB + APIs + OpenResty/nginx
+Fullstack Software Architect and CTO with active, hands-on experience. Innovating in software and hardware design and development since 1992.
+
+Product Development with ArangoDB ★ Node.js ★ React ★ Alibaba and Ant Group line of tools ★ Ant.Design ★ APIs ★ OpenResty/nginx ★ Lua ★ C# ★ TypeScript ★ Docker ★ DevOps ★ GitHub Actions ★ Microsoft Azure DevOps ★ AWS ★ Oracle Cloud ★ Microservices ★ ESP32 on FreeRTOS
 
 More details: 
 
