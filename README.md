@@ -6,12 +6,12 @@ Ping me if you are into Product Development with ArangoDB ★ Node.js ★ Bun �
 
 ## Ready to use Tools
 
-| DevOps                                                       | Openresty/Lua                                             | Databases                                                    |
-| ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
-| [sshc](https://github.com/skitsanos/sshc)                    | [resty-umzila](https://github.com/skitsanos/resty-umzila) | [foxx-builder](https://github.com/skitsanos/foxx-builder)    |
-| [teraclio](https://github.com/skitsanos/teraclio)            | [rsjson](https://github.com/skitsanos/rsjson)             | [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) |
-| [swagger-to-fatsy](https://github.com/skitsanos/swagger-to-fatsy) |                                                           | [lua-arangodb](https://github.com/skitsanos/lua-arangodb)    |
-| [py-task-runner](https://github.com/skitsanos/py-task-runner/) | | [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) |
+| Building Blocks                                              | DevOps                                                       | Openresty/Lua                                             | Databases                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
+| [Foxx Builder](https://github.com/skitsanos/foxx-builder)    | [sshc](https://github.com/skitsanos/sshc)                    | [resty-umzila](https://github.com/skitsanos/resty-umzila) | [foxx-builder](https://github.com/skitsanos/foxx-builder)    |
+| [Flask Web App/REST API](https://github.com/skitsanos/flask-dynamic-routes) | [teraclio](https://github.com/skitsanos/teraclio)            | [rsjson](https://github.com/skitsanos/rsjson)             | [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) |
+| [Ant.Design Starter](https://github.com/skitsanos/default-dashboard) | [swagger-to-fatsy](https://github.com/skitsanos/swagger-to-fatsy) |                                                           | [lua-arangodb](https://github.com/skitsanos/lua-arangodb)    |
+| [Tarantool Starter](https://github.com/skitsanos/tarantool-example) | [py-task-runner](https://github.com/skitsanos/py-task-runner/) |                                                           | [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) |
 
 More details: 
 
