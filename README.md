@@ -1,8 +1,8 @@
 # Welcome 
 
-Fullstack Software Architect and CTO with active, hands-on experience. Innovating in software and hardware design and development since 1992.
+Dynamic and innovative Fullstack Software Architect and CTO with over three decades of experience in both software and hardware development. Adept at utilizing an extensive technology stack including ArangoDB, Node.js, React, and Alibaba and Ant Group tools, among others. Specialized expertise in Ant.Design and Umi.js frameworks. Comprehensive understanding of the software product development lifecycle and DevOps methodologies, focusing on scalable, efficient, and high-quality solutions. Proven track record in managing operations for large-scale enterprises and mentoring startups. Demonstrated ability to adapt to new technologies, with a willingness to upskill as needed. Outstanding communication skills with a commitment to sharing knowledge and expertise showcased through roles in applied programming education. Fluent in English with exceptional time management capabilities, underscoring a drive to meet project deliverables on time and exceed expectations.
 
-Product Development with ArangoDB ★ Node.js ★ Bun ★ React ★ Alibaba and Ant Group line of tools ★ Ant.Design ★ APIs ★ OpenResty/nginx ★ JavaScript ★ Lua ★ C# ★ TypeScript ★ Rust ★ Python ★ Docker ★ DevOps ★ GitHub Actions ★ Microsoft Azure DevOps ★ AWS ★ Oracle Cloud ★ Microservices ★ ESP32 on FreeRTOS ★ OpenAI ★ Langchain ★ LlamaIndex ★ Weaviate
+Ping me if you are into Product Development with ArangoDB ★ Node.js ★ Bun ★ React ★ Alibaba and Ant Group line of tools ★ Ant.Design ★ APIs ★ OpenResty/nginx ★ JavaScript ★ Lua ★ C# ★ TypeScript ★ Rust ★ Python ★ Docker ★ DevOps ★ GitHub Actions ★ Microsoft Azure DevOps ★ AWS ★ Oracle Cloud ★ Microservices ★ ESP32 on FreeRTOS ★ OpenAI ★ Langchain ★ LlamaIndex ★ Weaviate
 
 ## Ready to use Tools
 
