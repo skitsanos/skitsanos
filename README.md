@@ -6,12 +6,42 @@ Ping me if you are into Product Development with ArangoDB ★ Node.js ★ Bun �
 
 ## Ready to use Tools
 
-| Building Blocks                                              | DevOps                                                       | Openresty/Lua                                             | Databases                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
-| [Foxx Builder](https://github.com/skitsanos/foxx-builder)    | [sshc](https://github.com/skitsanos/sshc)                    | [resty-umzila](https://github.com/skitsanos/resty-umzila) | [foxx-builder](https://github.com/skitsanos/foxx-builder)    |
-| [Flask Web App/REST API](https://github.com/skitsanos/flask-dynamic-routes) | [teraclio](https://github.com/skitsanos/teraclio)            | [rsjson](https://github.com/skitsanos/rsjson)             | [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) |
-| [Ant.Design Starter](https://github.com/skitsanos/default-dashboard) | [swagger-to-fatsy](https://github.com/skitsanos/swagger-to-fatsy) |                                                           | [lua-arangodb](https://github.com/skitsanos/lua-arangodb)    |
-| [Tarantool Starter](https://github.com/skitsanos/tarantool-example) | [py-task-runner](https://github.com/skitsanos/py-task-runner/) |                                                           | [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) |
+### REST API Routers and Application Servers
+
+- [Bun+Hono](https://github.com/skitsanos/bun-dynamic-routes) - TypeScript implementation of dynamic route handler loading
+- [FastAPI](https://github.com/skitsanos/fastapi-dynamic-routes) - Python implementation of dynamic route handler loading for FastAPI
+- [Sanic](https://github.com/skitsanos/sanic-dynamic-routes) - Python implementation of dynamic route handler loading for Sanic
+- [Flask](https://github.com/skitsanos/flask-dynamic-routes) - Python implementation of dynamic route handler loading for Flask
+- [Tarantool Starter](https://github.com/skitsanos/tarantool-example) Minimal HTTP service for Tarantool
+
+### Databases
+
+- [foxx-builder](https://github.com/skitsanos/foxx-builder) - Foxx Microservices done right
+- [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) - Showcasing Tarantool as a jobs queue service
+- [lua-arangodb](https://github.com/skitsanos/lua-arangodb) - ArangoDB Client written in Lua for OpenResty
+- [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) - Example of how to create Haystack components to work with ArangoDB
+
+### DevOps
+
+- [sshc](https://github.com/skitsanos/sshc) - SSH Client demo written in Rust
+- [teraclio](https://github.com/skitsanos/teraclio) - Tera driven CLI tool
+- [swagger-to-fatsy](https://github.com/skitsanos/swagger-to-fatsy) - Utility to convert Swagger files to Fatsy router folder structures
+- [py-task-runner](https://github.com/skitsanos/py-task-runner/) - Multi-threaded task runner in Python
+
+### React
+
+- [Capturing Audio in React](https://github.com/skitsanos/react-tts) - Showcasing how to capture and play audio from a microphone and how to embed audio data at build time
+- [Ant.Design Starter](https://github.com/skitsanos/default-dashboard) - Dashboard template for Ant.Design
+
+### LLM and Artificial Intelligence
+
+- [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) - Example of how to create tools for function-calling models that support OpenAI tools definition
+- [llm-chatbot](https://github.com/skitsanos/llm-chatbot) - Various examples on implementing Chat UI with multiple LLMs
+- [gemini-ocr](https://github.com/skitsanos/gemini-ocr) - PDF Screenshot OCR Analysis with Google Gemini Pro
+
+### IoT and ESP32
+
+- [esp-idf](https://github.com/skitsanos/esp-idf) - ESP-IDF and FreeRTOS bits
 
 More details: 
 
