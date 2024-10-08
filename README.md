@@ -43,8 +43,3 @@ Ping me if you are into Product Development with ArangoDB ★ Node.js ★ Bun �
 ### IoT and ESP32
 
 - [esp-idf](https://github.com/skitsanos/esp-idf) - ESP-IDF and FreeRTOS bits
-
-More details: 
-
-[<img src="https://static-exp1.licdn.com/sc/h/90y3av2ns08iojcadywbxioqh" width="20">](https://www.linkedin.com/in/skitsanos/) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/skitsanos/stack)
-
