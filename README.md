@@ -35,6 +35,7 @@ Ping me if you are into Product Development with ArangoDB ★ Node.js ★ Bun �
 
 ### LLM and Artificial Intelligence
 
+- [tiny-crew](https://github.com/skitsanos/tiny-crew) - Multi-Agent AI system to tackle complex tasks through intelligent collaboration
 - [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) - Example of how to create tools for function-calling models that support OpenAI tools definition
 - [llm-chatbot](https://github.com/skitsanos/llm-chatbot) - Various examples on implementing Chat UI with multiple LLMs
 - [gemini-ocr](https://github.com/skitsanos/gemini-ocr) - PDF Screenshot OCR Analysis with Google Gemini Pro
