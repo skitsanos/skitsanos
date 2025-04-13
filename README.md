@@ -6,6 +6,15 @@ Strategic Technology Leadership ★ AI Product Vision & Strategy ★ R&D Managem
 
 ## Ready to use Tools
 
+### LLM and Artificial Intelligence
+
+- [SPLADE model trainer](https://github.com/gedankrayze/splade-model-trainer) - A comprehensive toolkit for training, evaluating, and deploying SPLADE (SParse Lexical AnD Expansion) models for efficient information retrieval.
+- [SPLADE REST API (aka Memsplora)](https://github.com/gedankrayze/splade_rest_api) - An in-memory SPLADE (SParse Lexical AnD Expansion) content server with FAISS integration
+- [tiny-crew](https://github.com/skitsanos/tiny-crew) - Multi-Agent AI system to tackle complex tasks through intelligent collaboration
+- [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) - Example of how to create tools for function-calling models that support OpenAI tools definition
+- [llm-chatbot](https://github.com/skitsanos/llm-chatbot) - Various examples on implementing Chat UI with multiple LLMs
+- [gemini-ocr](https://github.com/skitsanos/gemini-ocr) - PDF Screenshot OCR Analysis with Google Gemini Pro
+
 ### REST API Routers and Application Servers
 
 - [Bun+Hono](https://github.com/skitsanos/bun-dynamic-routes) - TypeScript implementation of dynamic route handler loading
@@ -32,13 +41,6 @@ Strategic Technology Leadership ★ AI Product Vision & Strategy ★ R&D Managem
 
 - [Capturing Audio in React](https://github.com/skitsanos/react-tts) - Showcasing how to capture and play audio from a microphone and how to embed audio data at build time
 - [Ant.Design Starter](https://github.com/skitsanos/default-dashboard) - Dashboard template for Ant.Design
-
-### LLM and Artificial Intelligence
-
-- [tiny-crew](https://github.com/skitsanos/tiny-crew) - Multi-Agent AI system to tackle complex tasks through intelligent collaboration
-- [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) - Example of how to create tools for function-calling models that support OpenAI tools definition
-- [llm-chatbot](https://github.com/skitsanos/llm-chatbot) - Various examples on implementing Chat UI with multiple LLMs
-- [gemini-ocr](https://github.com/skitsanos/gemini-ocr) - PDF Screenshot OCR Analysis with Google Gemini Pro
 
 ### IoT and ESP32
 
