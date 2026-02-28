@@ -1,47 +1,64 @@
-# Welcome 
+# Hey, I'm Skitsanos 
 
-Visionary technology leader with over three decades of progressive experience spanning software engineering, hardware development, and executive leadership. Proven track record in steering operations for large-scale enterprises, spearheading R&D initiatives, and mentoring high-potential startups. Strategic decision-maker with exceptional ability to align technological innovation with business objectives. Outstanding communication skills demonstrated through knowledge-sharing initiatives and applied programming education. Decisive management approach with a consistent history of delivering complex projects on time while exceeding stakeholder expectations.
+I build things at the intersection of software, hardware, and AI — and have been doing so for over thirty years. My work spans from low-level systems to executive strategy, from R&D labs to startup mentorship. I care deeply about making technology decisions that actually move the needle.
 
-Strategic Technology Leadership ★ AI Product Vision & Strategy ★ R&D Management ★ Technical Team Leadership ★ Enterprise Solution Architecture ★ Generative AI Integration (OpenAI, Claude, Gemini, Groq, Qwen, Ollama) ★ LLM Frameworks (TinyCrew, ell, Semantic Kernel, CrewAI, LangGraph, Agno) ★ DevOps & Cloud Infrastructure ★ IoT Ecosystem Development ★ Cross-Platform Solutions ★ Innovation Management ★ Digital Transformation ★ Technical Mentorship
+Beyond software, I have a background in **digital forensics** — formerly with Cellebrite, and currently doing data forensics work for enterprise clients in regulated industries through [Gedank Rayze](https://github.com/gedankrayze), my company based in Lisbon. That work shapes how I think about data integrity, auditability, and systems that have to be right under pressure.
 
-## Ready to use Tools
+These days I'm also deeply focused on **AI product architecture** — designing systems where LLMs do meaningful work, not just demo tricks. I've integrated generative AI across production environments using OpenAI, Claude, Gemini, Groq, Qwen, and Ollama, and have worked with frameworks including TinyCrew, ell, Semantic Kernel, CrewAI, LangGraph, and Agno.
 
-### LLM and Artificial Intelligence
+---
 
-- [SPLADE model trainer](https://github.com/gedankrayze/splade-model-trainer) - A comprehensive toolkit for training, evaluating, and deploying SPLADE (SParse Lexical AnD Expansion) models for efficient information retrieval.
-- [SPLADE REST API (aka Memsplora)](https://github.com/gedankrayze/splade_rest_api) - An in-memory SPLADE (SParse Lexical AnD Expansion) content server with FAISS integration
-- [tiny-crew](https://github.com/skitsanos/tiny-crew) - Multi-Agent AI system to tackle complex tasks through intelligent collaboration
-- [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) - Example of how to create tools for function-calling models that support OpenAI tools definition
-- [llm-chatbot](https://github.com/skitsanos/llm-chatbot) - Various examples on implementing Chat UI with multiple LLMs
-- [gemini-ocr](https://github.com/skitsanos/gemini-ocr) - PDF Screenshot OCR Analysis with Google Gemini Pro
+## What I'm Good At
 
-### REST API Routers and Application Servers
+`AI Product Vision` · `R&D Management` · `Enterprise Architecture` · `Technical Team Leadership` · `Generative AI Integration` · `LLM Frameworks` · `DevOps & Cloud` · `IoT Systems` · `Digital Transformation`
 
-- [Bun+Hono](https://github.com/skitsanos/bun-dynamic-routes) - TypeScript implementation of dynamic route handler loading
-- [FastAPI](https://github.com/skitsanos/fastapi-dynamic-routes) - Python implementation of dynamic route handler loading for FastAPI
-- [Sanic](https://github.com/skitsanos/sanic-dynamic-routes) - Python implementation of dynamic route handler loading for Sanic
-- [Flask](https://github.com/skitsanos/flask-dynamic-routes) - Python implementation of dynamic route handler loading for Flask
-- [Tarantool Starter](https://github.com/skitsanos/tarantool-example) Minimal HTTP service for Tarantool
+---
+
+## Tools Worth Using
+
+### LLM & AI
+
+| Project | Description |
+|---|---|
+| [SPLADE Model Trainer](https://github.com/gedankrayze/splade-model-trainer) | Train, evaluate, and deploy SPLADE models for efficient sparse information retrieval |
+| [Memsplora / SPLADE REST API](https://github.com/gedankrayze/splade_rest_api) | In-memory SPLADE content server with FAISS integration |
+| [tiny-crew](https://github.com/skitsanos/tiny-crew) | Multi-agent AI system for tackling complex tasks through intelligent collaboration |
+| [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) | Clean patterns for building OpenAI-compatible function-calling tools |
+| [llm-chatbot](https://github.com/skitsanos/llm-chatbot) | Chat UI examples across multiple LLM providers |
+| [gemini-ocr](https://github.com/skitsanos/gemini-ocr) | PDF screenshot analysis with Google Gemini Pro |
+
+### REST APIs & Application Servers
+
+| Project | Description |
+|---|---|
+| [Bun + Hono](https://github.com/skitsanos/bun-dynamic-routes) | Dynamic route handler loading in TypeScript |
+| [FastAPI](https://github.com/skitsanos/fastapi-dynamic-routes) | Dynamic route loading for FastAPI |
+| [Sanic](https://github.com/skitsanos/sanic-dynamic-routes) | Dynamic route loading for Sanic |
+| [Flask](https://github.com/skitsanos/flask-dynamic-routes) | Dynamic route loading for Flask |
+| [Tarantool Starter](https://github.com/skitsanos/tarantool-example) | Minimal HTTP service for Tarantool |
+
+### Workflow & Automation
+
+| Project | Description |
+|---|---|
+| [IronFlow](https://github.com/skitsanos/ironflow) | DAG-based workflow engine in Rust with Lua scripting — ships as a single binary, no dependencies. Open-source alternative to n8n, Airflow, and Prefect. Supports CI/CD, ETL, API integrations, and task automation with parallel execution, retry logic, and a built-in REST API. Runs on Linux, macOS, edge servers, and air-gapped environments. |
+| [microflow](https://github.com/skitsanos/microflow) | Lightweight workflow engine for Python with deterministic task execution, dependency management, retries, and pluggable state persistence (JSON and Redis). Built with a comprehensive node ecosystem for real-world automation. |
+
+### UI & Design Systems
+
+| Project | Description |
+|---|---|
+| [Dutchy Design System](https://github.com/skitsanos/dutchy-design-system) | Bold, structural UI kit inspired by Dutch graphic design — zero-radius geometry, high contrast, loud typography. Built on Bun SSR with a server-only JSX component library |
 
 ### Databases
 
-- [foxx-builder](https://github.com/skitsanos/foxx-builder) - Foxx Microservices done right
-- [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) - Showcasing Tarantool as a jobs queue service
-- [lua-arangodb](https://github.com/skitsanos/lua-arangodb) - ArangoDB Client written in Lua for OpenResty
-- [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) - Example of how to create Haystack components to work with ArangoDB
+| Project | Description |
+|---|---|
+| [foxx-builder](https://github.com/skitsanos/foxx-builder) | Foxx Microservices, done properly |
+| [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) | Tarantool as a job queue service |
+| [lua-arangodb](https://github.com/skitsanos/lua-arangodb) | ArangoDB client written in Lua for OpenResty |
+| [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) | Haystack components for working with ArangoDB |
 
-### DevOps
+---
 
-- [sshc](https://github.com/skitsanos/sshc) - SSH Client demo written in Rust
-- [teraclio](https://github.com/skitsanos/teraclio) - Tera driven CLI tool
-- [swagger-to-fatsy](https://github.com/skitsanos/swagger-to-fatsy) - Utility to convert Swagger files to Fatsy router folder structures
-- [py-task-runner](https://github.com/skitsanos/py-task-runner/) - Multi-threaded task runner in Python
-
-### React
-
-- [Capturing Audio in React](https://github.com/skitsanos/react-tts) - Showcasing how to capture and play audio from a microphone and how to embed audio data at build time
-- [Ant.Design Starter](https://github.com/skitsanos/default-dashboard) - Dashboard template for Ant.Design
-
-### IoT and ESP32
-
-- [esp-idf](https://github.com/skitsanos/esp-idf) - ESP-IDF and FreeRTOS bits
+*Open to interesting conversations about AI systems, architecture, and hard problems.*
