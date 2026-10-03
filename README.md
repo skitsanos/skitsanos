@@ -1,64 +1,75 @@
-# Hey, I'm Skitsanos 
+# Hey, I'm Skitsanos
 
-I build things at the intersection of software, hardware, and AI — and have been doing so for over thirty years. My work spans from low-level systems to executive strategy, from R&D labs to startup mentorship. I care deeply about making technology decisions that actually move the needle.
+I build **AI products and the systems behind them**. Over thirty years in software, hardware, and R&D have taken me from low-level systems to enterprise architecture, technical leadership, and startup mentorship.
 
-Beyond software, I have a background in **digital forensics** — formerly with Cellebrite, and currently doing data forensics work for enterprise clients in regulated industries through [Gedank Rayze](https://github.com/gedankrayze), my company based in Lisbon. That work shapes how I think about data integrity, auditability, and systems that have to be right under pressure.
+I run [Gedank Rayze](https://github.com/gedankrayze) in Lisbon, where my work includes AI product architecture and data forensics for enterprise clients in regulated industries. My background in **digital forensics**, including work at Cellebrite, shapes how I build: data should be traceable, decisions auditable, and systems reliable under pressure.
 
-These days I'm also deeply focused on **AI product architecture** — designing systems where LLMs do meaningful work, not just demo tricks. I've integrated generative AI across production environments using OpenAI, Claude, Gemini, Groq, Qwen, and Ollama, and have worked with frameworks including TinyCrew, ell, Semantic Kernel, CrewAI, LangGraph, and Agno.
+## Three Pillars for AI
 
----
+Our AI work rests on three pillars: **IronCrew for agent coordination, IronFlow for workflow execution, and CogniGraph for connected data**.
 
-## What I'm Good At
+### [IronCrew](https://ironcrew.work/) — Agents Under Human Command
 
-`AI Product Vision` · `R&D Management` · `Enterprise Architecture` · `Technical Team Leadership` · `Generative AI Integration` · `LLM Frameworks` · `DevOps & Cloud` · `IoT Systems` · `Digital Transformation`
+A Rust runtime for teams of AI agents, with agents, tasks, and tools defined in Lua. It coordinates parallel work, tool calls, and shared memory, with explicit checkpoints for human input and approval. Deploy it as a native binary with your choice of model provider.
 
----
+[Source & documentation](https://github.com/skitsanos/ironcrew)
 
-## Tools Worth Using
+### [IronFlow](https://github.com/skitsanos/ironflow) — Deterministic Workflows
 
-### LLM & AI
+A workflow engine built in Rust with Lua scripting for ETL, API integrations, CI/CD, and task automation. Dependency graphs, parallel execution, retries, and a REST API make execution explicit. Ships as a single binary without a Python or Node.js runtime; PDF rendering nodes additionally require Pdfium.
+
+### [CogniGraph](https://cognigraphdb.com/) — Connected Data and Evidence
+
+A database built in Rust that combines JSON documents, typed graph relationships, full-text search, and vector search in one process. Query connected records with CGQL and keep relationships linked to their source material — a foundation for AI retrieval and forensic analysis.
+
+## What I Work On
+
+AI product architecture · Enterprise systems · R&D management · Technical leadership · Data forensics · Cloud & DevOps · IoT
+
+## More Projects
+
+### AI & Retrieval
 
 | Project | Description |
-|---|---|
-| [SPLADE Model Trainer](https://github.com/gedankrayze/splade-model-trainer) | Train, evaluate, and deploy SPLADE models for efficient sparse information retrieval |
-| [Memsplora / SPLADE REST API](https://github.com/gedankrayze/splade_rest_api) | In-memory SPLADE content server with FAISS integration |
-| [tiny-crew](https://github.com/skitsanos/tiny-crew) | Multi-agent AI system for tackling complex tasks through intelligent collaboration |
-| [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) | Clean patterns for building OpenAI-compatible function-calling tools |
+| --- | --- |
+| [SPLADE Model Trainer](https://github.com/gedankrayze/splade-model-trainer) | Train, evaluate, and deploy models for sparse information retrieval |
+| [Memsplora / SPLADE REST API](https://github.com/gedankrayze/splade-rest-api) | In-memory SPLADE content server with FAISS search |
+| [tiny-crew](https://github.com/skitsanos/tiny-crew) | Multi-agent AI system for collaborative task execution |
+| [openai-decorators-and-tools](https://github.com/skitsanos/openai-decorators-and-tools) | Patterns for building OpenAI-compatible function-calling tools |
 | [llm-chatbot](https://github.com/skitsanos/llm-chatbot) | Chat UI examples across multiple LLM providers |
-| [gemini-ocr](https://github.com/skitsanos/gemini-ocr) | PDF screenshot analysis with Google Gemini Pro |
+| [gemini-ocr](https://github.com/skitsanos/gemini-ocr) | PDF screenshot analysis using Google Gemini |
 
 ### REST APIs & Application Servers
 
 | Project | Description |
-|---|---|
-| [Bun + Hono](https://github.com/skitsanos/bun-dynamic-routes) | Dynamic route handler loading in TypeScript |
+| --- | --- |
+| [Bun File-System Router](https://github.com/skitsanos/bun-dynamic-routes) | TypeScript server template using Bun's native file-system routing |
 | [FastAPI](https://github.com/skitsanos/fastapi-dynamic-routes) | Dynamic route loading for FastAPI |
 | [Sanic](https://github.com/skitsanos/sanic-dynamic-routes) | Dynamic route loading for Sanic |
 | [Flask](https://github.com/skitsanos/flask-dynamic-routes) | Dynamic route loading for Flask |
 | [Tarantool Starter](https://github.com/skitsanos/tarantool-example) | Minimal HTTP service for Tarantool |
+| [Tarantool Jobs Queue](https://github.com/skitsanos/tarantool-jobs-queue) | Showcase of job queue management through a REST API, built with Tarantool and Lua |
 
 ### Workflow & Automation
 
 | Project | Description |
-|---|---|
-| [IronFlow](https://github.com/skitsanos/ironflow) | DAG-based workflow engine in Rust with Lua scripting — ships as a single binary, no dependencies. Open-source alternative to n8n, Airflow, and Prefect. Supports CI/CD, ETL, API integrations, and task automation with parallel execution, retry logic, and a built-in REST API. Runs on Linux, macOS, edge servers, and air-gapped environments. |
-| [microflow](https://github.com/skitsanos/microflow) | Lightweight workflow engine for Python with deterministic task execution, dependency management, retries, and pluggable state persistence (JSON and Redis). Built with a comprehensive node ecosystem for real-world automation. |
+| --- | --- |
+| [microflow](https://github.com/skitsanos/microflow) | Python workflow engine with task dependencies, retries, and JSON or Redis state persistence |
 
 ### UI & Design Systems
 
 | Project | Description |
-|---|---|
-| [Dutchy Design System](https://github.com/skitsanos/dutchy-design-system) | Bold, structural UI kit inspired by Dutch graphic design — zero-radius geometry, high contrast, loud typography. Built on Bun SSR with a server-only JSX component library |
+| --- | --- |
+| [NLUI Demo](https://github.com/skitsanos/nlui-demo) | Natural-language interface using React, Ant Design X, and OpenAI, with server-controlled charts, tables, forms, and actions |
+| [Dutchy Design System](https://github.com/skitsanos/dutchy-design-system) | UI kit inspired by Dutch graphic design, built with Bun SSR and server-only JSX components |
 
 ### Databases
 
 | Project | Description |
-|---|---|
-| [foxx-builder](https://github.com/skitsanos/foxx-builder) | Foxx Microservices, done properly |
-| [tarantool-jobs-queue](https://github.com/skitsanos/tarantool-jobs-queue) | Tarantool as a job queue service |
+| --- | --- |
 | [lua-arangodb](https://github.com/skitsanos/lua-arangodb) | ArangoDB client written in Lua for OpenResty |
 | [arangodb-haystack](https://github.com/skitsanos/arangodb-haystack) | Haystack components for working with ArangoDB |
 
 ---
 
-*Open to interesting conversations about AI systems, architecture, and hard problems.*
+Open to conversations about **AI product architecture, technical leadership, and collaboration**. Connect with me on [LinkedIn](https://www.linkedin.com/in/skitsanos/) or explore my work at [skitsanos.com](https://skitsanos.com/).
